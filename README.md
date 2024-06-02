@@ -14,6 +14,9 @@ This Python script generates unlimited random phone numbers for a specified coun
 ## Educational Purpose
 Please note that this script is intended for educational purposes only. It's meant to demonstrate the use of libraries for phone number validation and carrier extraction. Any use of this script for other purposes is not recommended.
 
+## Contact
+For any questions or feedback, feel free to contact me on Telegram at [@Nyx_FallagaTn](https://t.me/Nyx_FallagaTn).
+
 ## Requirements
 
 - [Python 3.x](https://www.python.org/downloads/release/python-3115/)
