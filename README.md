@@ -25,4 +25,12 @@ For any questions or feedback, feel free to contact me on Telegram at [@Nyx_Fall
 - [Python 3.x](https://www.python.org/downloads/release/python-3115/)
 - Libraries: `phonenumbers`, `phone_gen`, `fontstyle`
 
+## Installation 📥
+
+To install the required libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 Feel free to customize and extend the script to suit your specific needs. Contributions are always welcome! 🙌
